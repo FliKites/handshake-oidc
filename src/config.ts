@@ -22,4 +22,4 @@ export const redis = {
 };
 export const sentry = process.env.SENTRY_DSN;
 
-export const hsdResolvers = ['103.196.38.38', '103.196.38.39'];
+export const hsdResolvers = ['45.90.28.121', '45.90.30.121'];
